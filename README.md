@@ -3,7 +3,7 @@
 [APIversionImg]: https://img.shields.io/badge/Car%20Staus-Stable-green
 [licenseImg]: https://img.shields.io/badge/Version-0.1-blue
 
-[logo]: https://i.imgur.com/PwZ4IPj.jpg
+[logo]: https://i.imgur.com/c9RMd9j.png
 <!-- The stuff above isn't visible in the readme -->
 
 ![logo]
