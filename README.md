@@ -16,6 +16,4 @@ Updated list of (FiveM) GTA 5 tesla modelled cars.
 
 ## Quick Links
 
-Discord: https://discord.gg/bh62as6
-
-Tag: BenSon#0001
+Discord Tag: BenSon#0001
